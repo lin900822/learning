@@ -47,4 +47,11 @@ sysinfo.txt
 
 *.log
 
-Library
+Library/
+Library/ArtifactDB
+Library/SceneVisibilityState.asset
+Library/SourceAssetDB
+Library/PackageCache/com.unity.ide.vscode@1.2.3/package.json
+Library/PackageManager/ProjectCache
+Library/PackageManager/ProjectCache.md5
+Logs/shadercompiler-UnityShaderCompiler.exe0.log
